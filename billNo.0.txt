@@ -1,0 +1,18 @@
+invoice number:  0
+******************
+3 :Normal notebook  
+6.0$
+2 :Folder notebook  
+5.0$
+2 :Drawing book  
+6.0$
+4 :pencil  
+14.0$
+4 :fountain pen  
+16.0$
+-----
+$Total:  47.0
+$Tax:  2.35 
+$aggregate:  49.35 
+
+* Thank you for your order*
